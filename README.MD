@@ -15,6 +15,7 @@ But fear not: The initial commands are to be keeped.
     >   Deletes the message that is within the channel, and resends it with censor brackets
     >   
     >   To put flashy gifs in a censor barrier, and protect epileptic people
+ 
  -  b!alert
     >   The bot-alert related commands
     >    -  b!alert list
@@ -23,3 +24,4 @@ But fear not: The initial commands are to be keeped.
     >       >   Adds the given word sequence to the list
     >    -  b!alert remove \<word sequence\>
     >       >   Removes the given word sequence from the list
+
