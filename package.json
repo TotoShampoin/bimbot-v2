@@ -1,0 +1,24 @@
+{
+  "name": "bimbot-v2",
+  "version": "2.0.0",
+  "description": "The Bimbot, with the most recent DiscordJS API (as of February 5th 2022)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TotoShampoin/bimbot-v2.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Bimbot"
+  ],
+  "author": "TotoShampoin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TotoShampoin/bimbot-v2/issues"
+  },
+  "homepage": "https://github.com/TotoShampoin/bimbot-v2#readme"
+}
